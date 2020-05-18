@@ -1,5 +1,5 @@
 @echo off
-echo RobustWinMineServer v0.2
+echo RobustWinMineServer v0.3
 pause
 cls
 start https://gitforwindows.org/
